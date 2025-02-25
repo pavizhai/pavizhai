@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pavizhai
 - 👀 I’m interested in learning new Skills
 - 🌱 I’m currently learning  DJango 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on full-stack development using Django and Next.js.
 - 📫 How to reach me pavit033@gmail.com
 - 😄 Pronouns: She
 - ⚡ Fun fact: ...
