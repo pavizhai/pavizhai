@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pavizhai
-- 👀 I’m interested in learning Skills
+- 👀 I’m interested in learning new Skills
 - 🌱 I’m currently learning  DJango 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me pavit033@gmail.com
